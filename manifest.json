@@ -8,11 +8,12 @@
       "chipFamily": "ESP32-C3",
       "ota": {
         "path": "https://raw.githubusercontent.com/maxlin0305/otatest/main/firmware.ota.bin",
-        "md5": "4eacab71074f96027561ec4abc64a70e",
+        "md5": "9190abc4202317512d590b2237beaab0",
         "summary": ""
       }
     }
   ]
 }
+
 
 
