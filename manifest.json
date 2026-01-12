@@ -1,0 +1,17 @@
+{
+  "name": "hit-ac-c3",
+  "version": "0.0.2",
+  "home_assistant_domain": "esphome",
+  "new_install_prompt_erase": false,
+  "builds": [
+    {
+      "chipFamily": "ESP32-C3",
+      "ota": {
+        "path": "https://raw.githubusercontent.com/maxlin0305/otatest/main/firmware_1.0.2.ota.bin",
+        "md5": "b5fb76f6c2d1a793d627c56a7574361f",
+        "summary": ""
+      }
+    }
+  ]
+}
+
